@@ -1,3 +1,29 @@
+Abdelkader Habel 40209153 UN-X
+
+# Step 1: Draw the CFG graph for onClick() 
+
+
+![IMG_C5826ED70601-1](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-abdelh17/assets/98190195/56b9e027-835a-4c71-941f-3229552c07b5)
+
+
+# Step 2: Compute node coverage  
+![IMG_F0339F7E6DD1-1](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-abdelh17/assets/98190195/f818d5c2-1643-4e29-8bd0-a83ee50cbbe1)
+
+
+# Step 3: Compute edge coverage
+![IMG_4DA8254560EB-1](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-abdelh17/assets/98190195/b6509f35-d8b0-4b4f-94b2-3c773ebe5992)
+
+
+# Step 4: Compute edge-pair coverage  
+![IMG_3DD5B5F0AD1A-1](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-abdelh17/assets/98190195/1d9a50b3-f316-4d67-b7ba-28508a1eebd3)
+
+# Step 5: Draw EFG graph
+![IMG_8C104BB412DA-1](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-abdelh17/assets/98190195/14717543-264f-475c-99ee-d6e3899a643a)
+
+
+
+
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
